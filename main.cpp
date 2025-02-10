@@ -1,4 +1,4 @@
-// Most of the example if from
+// Most of the example is from
 // https://lazyfoo.net/tutorials/SDL3/01-hello-sdl3/index2.php
 
 
